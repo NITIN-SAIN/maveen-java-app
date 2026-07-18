@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
 
             steps {
-                echo "my master branch" 
+                echo "my dev branch" 
             }
         }
      }    
